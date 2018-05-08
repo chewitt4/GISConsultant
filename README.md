@@ -1,2 +1,2 @@
-# GISConsultant
+# GIS Consultant
 GIS Consultant
